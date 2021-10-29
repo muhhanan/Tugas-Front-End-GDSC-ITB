@@ -2,7 +2,7 @@
 
 Top Marver Movies by Muhammad Hanan (604)
 
-Link website: 
+Link website: https://muhhanan.github.io/
 
 Website ini merupakan hasil tugas front-end pertama dari GDSC ITB. Fitur yang ada pada website ini adalah search bar yang dapat mencari film-film yang adapada website. Deskripsi dan rating dari dari film dapat dilihat dengan mengklik judul dari film tersebut.
 
